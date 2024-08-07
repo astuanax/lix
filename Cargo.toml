@@ -1,0 +1,18 @@
+[package]
+name = "lix"
+version = "0.1.0"
+edition = "2021"
+description = "Calculate LIX score for a given text and language."
+repository = "https://github.com/astuanax/lix"
+license = "MIT"
+keywords = ["textanalysis", "readability", "lix", "languages"]
+
+
+[lib]
+name = "lix"
+path = "src/lib.rs"
+
+
+
+[dependencies]
+regex = "1.10.6"
