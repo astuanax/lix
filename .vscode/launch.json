@@ -7,7 +7,7 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug executable 'lix'",
+            "name": "Build executable 'lix'",
             "cargo": {
                 "args": [
                     "build",
@@ -25,7 +25,7 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug unit tests in executable 'lix'",
+            "name": "Tests in executable 'lix'",
             "cargo": {
                 "args": [
                     "test",

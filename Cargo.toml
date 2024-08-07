@@ -1,5 +1,5 @@
 [package]
-name = "lix"
+name = "lix-score"
 version = "0.1.0"
 edition = "2021"
 description = "Calculate LIX score for a given text and language."
@@ -9,7 +9,7 @@ keywords = ["textanalysis", "readability", "lix", "languages"]
 
 
 [lib]
-name = "lix"
+name = "lix_score"
 path = "src/lib.rs"
 
 
