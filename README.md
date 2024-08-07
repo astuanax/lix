@@ -1,4 +1,4 @@
-# Gunning fog analysis
+# LIX analysis
 
 [![Crates.io](https://img.shields.io/crates/v/lix.svg)](https://crates.io/crates/lix)
 [![Docs.rs](https://docs.rs/lix/badge.svg)](https://docs.rs/lix)
